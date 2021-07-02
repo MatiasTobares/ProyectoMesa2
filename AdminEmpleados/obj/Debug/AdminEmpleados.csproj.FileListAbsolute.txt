@@ -1,0 +1,12 @@
+C:\Users\Mauro\source\repos\AdminEmpleados\AdminEmpleados\bin\Debug\AdminEmpleados.exe.config
+C:\Users\Mauro\source\repos\AdminEmpleados\AdminEmpleados\bin\Debug\AdminEmpleados.exe
+C:\Users\Mauro\source\repos\AdminEmpleados\AdminEmpleados\bin\Debug\AdminEmpleados.pdb
+C:\Users\Mauro\source\repos\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.csprojAssemblyReference.cache
+C:\Users\Mauro\source\repos\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.Form1.resources
+C:\Users\Mauro\source\repos\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.PL.frmDepartamentos.resources
+C:\Users\Mauro\source\repos\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.PL.frmEmpleados.resources
+C:\Users\Mauro\source\repos\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.Properties.Resources.resources
+C:\Users\Mauro\source\repos\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.csproj.GenerateResource.cache
+C:\Users\Mauro\source\repos\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\source\repos\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.exe
+C:\Users\Mauro\source\repos\AdminEmpleados\AdminEmpleados\obj\Debug\AdminEmpleados.pdb
